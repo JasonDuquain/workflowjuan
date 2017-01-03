@@ -1,0 +1,19 @@
+{
+  "name": "workflowjuan",
+  "version": "1.0.0",
+  "description": "udemy juan workflow site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jduquain/workflowjuan.git"
+  },
+  "author": "jason duquain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jduquain/workflowjuan/issues"
+  },
+  "homepage": "https://github.com/jduquain/workflowjuan#readme"
+}
