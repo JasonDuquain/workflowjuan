@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jduquain/workflowjuan/issues"
   },
-  "homepage": "https://github.com/jduquain/workflowjuan#readme"
+  "homepage": "https://github.com/jduquain/workflowjuan#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.0.0"
+  }
 }
