@@ -1,3 +1,7 @@
+gulpfile at 8:40 mark of section 3 lecure 8:
+
+
+
 var gulp = require('gulp');
 var sass = require('gulp-sass');
 var browserSync = require('browser-sync');
@@ -28,8 +32,5 @@ gulp.task('serve', ['sass'], function() {
     })
 });
 
-gulp.task('watch', ['serve', 'sass'], function(){
-    gulp.watch([SOURCEPATHS.sassSource], ['sass']);
-});
 
-gulp.task('default', ['watch']);
+gulp.task('default', ['serve']);
